@@ -1,0 +1,20 @@
+{
+  "name": "imageupload",
+  "version": "1.0.0",
+  "description": "testing code",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mahesh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "firebase": "^10.7.1",
+    "mongodb": "^6.3.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
